@@ -1,1 +1,1 @@
-using KNN algorthim to predict the car class
+using KNN algorthim to predict the car Evaluation
